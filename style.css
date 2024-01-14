@@ -1,0 +1,45 @@
+body {
+    background-color: aquamarine;
+}
+
+.name_title {
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.mylogo {
+    border-radius: 10px;
+    border-color: red;
+    border-style: solid;
+    width: 250px;
+}
+
+.logodiv {
+    margin-right: 10px;
+}
+
+.myshell {
+    display: flex;
+    border: 2px;
+    border-radius: 10px;
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+}
+
+.mytitle {
+    font-size: 30px;
+}
+
+p{
+    text-align: justify;
+}
+
+.myacc {
+    color: blue;
+}
+
+.fora {
+    text-align: right;
+}
